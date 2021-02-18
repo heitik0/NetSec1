@@ -17,11 +17,12 @@ ANSWER
 </details>
 
 <details>
-<summary>Warum werden bei 3DES nicht 3 Schlüssel der Länge 56 Bit verwendet, um auf eineSchlüssellänge von insgesamt 168 Bit zu kommen?</summary>
+<summary>Warum werden bei 3DES nicht 3 Schlüssel der Länge 56 Bit verwendet, um auf eine Schlüssellänge von insgesamt 168 Bit zu kommen?</summary>
 ```
 ANSWER
 ```
 </details>
+
 ## Aufgaben
 
 
